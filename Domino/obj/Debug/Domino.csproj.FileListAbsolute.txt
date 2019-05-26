@@ -1,0 +1,20 @@
+C:\Users\Silviu\source\repos\Domino\Domino\bin\Debug\Domino.exe.config
+C:\Users\Silviu\source\repos\Domino\Domino\bin\Debug\Domino.exe
+C:\Users\Silviu\source\repos\Domino\Domino\bin\Debug\Domino.pdb
+C:\Users\Silviu\source\repos\Domino\Domino\obj\Debug\Domino.csprojResolveAssemblyReference.cache
+C:\Users\Silviu\source\repos\Domino\Domino\obj\Debug\Domino.Form1.resources
+C:\Users\Silviu\source\repos\Domino\Domino\obj\Debug\Domino.Properties.Resources.resources
+C:\Users\Silviu\source\repos\Domino\Domino\obj\Debug\Domino.csproj.GenerateResource.Cache
+C:\Users\Silviu\source\repos\Domino\Domino\obj\Debug\Domino.csproj.CoreCompileInputs.cache
+C:\Users\Silviu\source\repos\Domino\Domino\obj\Debug\Domino.exe
+C:\Users\Silviu\source\repos\Domino\Domino\obj\Debug\Domino.pdb
+D:\INFORMATICA\Proiecte C#\Domino\Domino\bin\Debug\Domino.exe.config
+D:\INFORMATICA\Proiecte C#\Domino\Domino\bin\Debug\Domino.exe
+D:\INFORMATICA\Proiecte C#\Domino\Domino\bin\Debug\Domino.pdb
+D:\INFORMATICA\Proiecte C#\Domino\Domino\obj\Debug\Domino.csprojResolveAssemblyReference.cache
+D:\INFORMATICA\Proiecte C#\Domino\Domino\obj\Debug\Domino.Form1.resources
+D:\INFORMATICA\Proiecte C#\Domino\Domino\obj\Debug\Domino.Properties.Resources.resources
+D:\INFORMATICA\Proiecte C#\Domino\Domino\obj\Debug\Domino.csproj.GenerateResource.Cache
+D:\INFORMATICA\Proiecte C#\Domino\Domino\obj\Debug\Domino.csproj.CoreCompileInputs.cache
+D:\INFORMATICA\Proiecte C#\Domino\Domino\obj\Debug\Domino.exe
+D:\INFORMATICA\Proiecte C#\Domino\Domino\obj\Debug\Domino.pdb
